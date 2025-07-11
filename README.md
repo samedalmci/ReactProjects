@@ -1,4 +1,7 @@
-1. ReactFacts – Bilgilendirici Statik Sayfa
+🎯 React Portfolio Projects — Scrimba Developer Path
+Bu koleksiyon, Scrimba Learn React süresince geliştirdiğim 9 adet projeyi içermektedir. Her proje, temelden orta düzeye kadar farklı React yeteneklerini geliştirmemi sağladı. Uygulamalar sadece tasarımı takip etmekten ibaret değil; her biri React ekosisteminde karşılaşılan gerçek problemleri çözmeye yönelik hazırlandı.
+
+📘ReactFacts – Bilgilendirici Statik Sayfa
 
 React ile oluşturduğum ilk sayfa. İçeriğinde resimler, yazılar ve başlıklar bulunan basit bir tanıtım sayfası. Bileşen mimarisi, JSX sözdizimi ve React dosya yapısını ilk kez bu projede deneyimledim.
 
@@ -6,7 +9,8 @@ JSX ile HTML benzeri yapıların JavaScript içinde nasıl kullanıldığını,
 Component mantığıyla her yapıyı küçük, tekrar kullanılabilir parçalara ayırmayı,
 React uygulaması kurulumunu ve temel yapı taşlarını.
 
-2. Travel Journal – Seyahat Kartları
+
+🗺️ Travel Journal – Seyahat Kartları
    
 JSON veri kaynağından alınan içeriklerle dinamik seyahat kartları oluşturdum. Her kart bir bileşen olarak tasarlandı ve veri, props yoluyla aktarıldı. Proje, component reusability konusunu somut şekilde kavramamı sağladı.
 
