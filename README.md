@@ -1,6 +1,7 @@
 🎯 React Portfolio Projects — Scrimba Developer Path
 Bu koleksiyon, Scrimba Learn React süresince geliştirdiğim 9 adet projeyi içermektedir. Her proje, temelden orta düzeye kadar farklı React yeteneklerini geliştirmemi sağladı. Uygulamalar sadece tasarımı takip etmekten ibaret değil; her biri React ekosisteminde karşılaşılan gerçek problemleri çözmeye yönelik hazırlandı.
 
+---
 
 <img width="321" height="326" alt="Ekran görüntüsü 2025-07-12 024434" src="https://github.com/user-attachments/assets/e66fd853-c01c-4581-86e2-74a830f6490f" />
 
@@ -11,6 +12,7 @@ JSX ile HTML benzeri yapıların JavaScript içinde nasıl kullanıldığını,
 Component mantığıyla her yapıyı küçük, tekrar kullanılabilir parçalara ayırmayı,
 React uygulaması kurulumunu ve temel yapı taşlarını.
 
+---
 
 <img width="321" height="326" alt="Ekran görüntüsü 2025-07-12 024600" src="https://github.com/user-attachments/assets/be2c191f-e474-4f91-b57d-6e050153c954" />
 
@@ -21,6 +23,7 @@ Dış bir veri kaynağından gelen içerikleri ekrana yansıtmayı,
 .map() ile listeleme ve dinamik component üretmeyi,
 Props üzerinden veri aktarımı ile component’leri yeniden kullanılabilir kılmayı.
 
+---
 
 <img width="321" height="326" alt="Ekran görüntüsü 2025-07-12 024712" src="https://github.com/user-attachments/assets/ff90ce0c-8876-4289-ae5a-bbc2ddbd182b" />
 
@@ -31,7 +34,7 @@ Kullanıcı etkileşimini onClick event’leriyle nasıl yöneteceğimi,
 HTML5 Audio API ile ses dosyalarını nasıl tetikleyebileceğimi,
 Butonlara tıklanma durumuna göre dinamik class eklemeyi.
 
-
+---
 
 <img width="321" height="326" alt="Ekran görüntüsü 2025-07-12 024755" src="https://github.com/user-attachments/assets/3a7b87c5-855f-4a7c-9780-9c6dd9da73e5" />
 
@@ -43,7 +46,7 @@ Kullanıcıdan gelen input’ları doğru şekilde işleyip bir API isteği olu�
 Yapay zekâdan gelen yanıtı anlamlı biçimde UI içinde gösterme,
 Duruma göre içeriği güncelleme (conditional rendering).
 
-
+---
 
 <img width="321" height="326" alt="Ekran görüntüsü 2025-07-12 024625" src="https://github.com/user-attachments/assets/088f1cb2-fbd7-466d-8bc1-5ee796c88186" />
 
@@ -55,7 +58,7 @@ useEffect ile dış kaynaklardan veri çekmeyi,
 Controlled component yaklaşımını form alanlarında uygulamayı,
 API’den gelen verilerle kullanıcı etkileşimini birleştirmeyi.
 
-
+---
 
 <img width="321" height="326" alt="Ekran görüntüsü 2025-07-12 024830" src="https://github.com/user-attachments/assets/c5d951f4-009f-4819-a71c-9162e7a4942f" />
 
@@ -66,7 +69,7 @@ State’i doğru yapılandırarak oyun mantığını kurmayı,
 Array içindeki nesneleri güncelleyerek UI’da değişiklik oluşturmayı,
 Conditional rendering ve oyun bitiş kontrolünü uygulamayı.
 
-
+---
 
 <img width="321" height="326" alt="started" src="https://github.com/user-attachments/assets/23937962-2eed-4eda-ac6f-fe47f83f3d72" />
 
@@ -77,7 +80,7 @@ Component tree yönetimiyle uygulama akışını kurmayı,
 Prop’larla farklı bileşenler arası veri taşımayı,
 Kullanıcı tercihine göre içerik kontrolü yapmayı.
 
-
+---
 
 <img width="321" height="326" alt="brave_screenshot_localhost" src="https://github.com/user-attachments/assets/4826729b-99d2-45d1-a61f-8093c88354be" />
 
@@ -88,7 +91,7 @@ Basit bir UI’yi React yapısına nasıl bölebileceğimi,
 Styling ile içerik düzenini nasıl geliştireceğimi,
 Statik verilerle düzenli component yapısı kurmayı.
 
-
+---
 
 <img width="321" height="326" alt="Ekran görüntüsü 2025-07-12 025021" src="https://github.com/user-attachments/assets/7f292d2b-c1d2-4e2c-9f15-545e0def588b" />
 
